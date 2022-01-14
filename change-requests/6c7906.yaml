@@ -27,7 +27,7 @@ revisions:
       timeCreated: 2022-01-14T16:17:32.721Z
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: Hector Cadavid
@@ -76,3 +76,4 @@ _revisions:
       parents: []
       timeCreated: 2022-01-14T16:17:32.606Z
 timeSubmitted: 2022-01-14T16:19:15.771Z
+timeResolved: 2022-01-14T16:19:31.277Z
