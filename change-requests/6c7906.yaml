@@ -4,7 +4,27 @@ author:
   name: Hector Cadavid
   email: hector.cadavid@gmail.com
 timeCreated: 2022-01-14T16:17:32.606Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: AAA
+            type: expression
+            geographicalArea: asdas
+          - type: expression
+            designation: sadasdas
+            geographicalArea: asdsa
+        definition: dsfsadfdsa
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: sdfsaf
+      parents: []
+      timeCreated: 2022-01-14T16:17:32.721Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +44,27 @@ _revisions:
           name: Hector Cadavid
           email: hector.cadavid@gmail.com
         timeCreated: 2022-01-14T16:17:32.606Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: AAA
+                    type: expression
+                    geographicalArea: asdas
+                  - type: expression
+                    designation: sadasdas
+                    geographicalArea: asdsa
+                definition: dsfsadfdsa
+                notes: []
+                examples: []
+                authoritative_source: {}
+                usageInfo: sdfsaf
+              parents: []
+              timeCreated: 2022-01-14T16:17:32.721Z
         meta:
           registry:
             stage: Draft
