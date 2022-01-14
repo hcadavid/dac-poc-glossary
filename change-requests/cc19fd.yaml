@@ -37,6 +37,23 @@ revisions:
         usageInfo: aasdas dsa
       parents: []
       timeCreated: 2022-01-14T16:15:35.182Z
+    '-3-eng':
+      object:
+        id: -3
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: ICD
+            type: expression
+            geographicalArea: Eng
+            isAbbreviation: true
+        definition: it's something to describe documents
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: Interface Control Documents
+      parents: []
+      timeCreated: 2022-01-14T16:16:29.633Z
 meta:
   registry:
     stage: Draft
