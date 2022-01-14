@@ -21,6 +21,22 @@ revisions:
         usageInfo: Stands for Process ID
       parents: []
       timeCreated: 2022-01-14T16:15:10.457Z
+    '-2-eng':
+      object:
+        id: -2
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: ICD
+            type: symbol
+            normative_status: preferred
+        definition: asdsad
+        notes: []
+        examples: []
+        authoritative_source: {}
+        usageInfo: aasdas dsa
+      parents: []
+      timeCreated: 2022-01-14T16:15:35.182Z
 meta:
   registry:
     stage: Draft
